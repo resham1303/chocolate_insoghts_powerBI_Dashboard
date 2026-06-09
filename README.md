@@ -4,14 +4,15 @@ Chocolate Sales Performance Dashboard (Power BI)
 
 This interactive Chocolate Sales Dashboard provides a comprehensive analysis of sales, shipments, and profitability across different regions, product categories, and sales representatives. It is designed to help businesses monitor performance, identify trends, and optimize decision-making.
 
- Key Metrics
+Key Metrics
 Total Sales: $34M
 Total Boxes Sold: 2M
 Total Cost: $14M
 Total Profit: $20.52M
 Total Shipments: 6K
 Overall Profit Margin: 60.29%
- Dashboard Features
+
+Dashboard Features
 Sales Trend Analysis
 Monthly view of boxes sold showing fluctuations and seasonal demand patterns
 Shipment Analysis
@@ -26,16 +27,19 @@ Profit
 Profit %
 LBS %
 Visual indicators to highlight top and underperformers
- Business Value
+
+Business Value
 Identify top-performing sales representatives
 Track profitability and efficiency across operations
 Understand sales trends and demand patterns
 Enable data-driven strategic decisions
- Key Insights
+
+Key Insights
 Strong overall profit margin (~60%), indicating high efficiency
 Certain salespersons consistently outperform in both sales and profit %
 Shipment trends show declining patterns in later periods, signaling potential operational or demand issues
 Monthly sales variation suggests seasonality in demand
+
 Tools & Technologies
 Power BI
 Data Modeling & DAX
